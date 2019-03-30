@@ -1,0 +1,36 @@
+.azul {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    background: #000;
+} 
+
+.rojo {
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.verde {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.boton {
+    background-color: gray;
+    margin: 10px;
+    padding: 10px;
+    color:white;
+}
+
+.redondo {
+    border-radius: 10px;
+}
+
+#titulo {
+    color: aqua;
+}
+
+.contenedor {
+    width: 400px;
+    margin: 0 auto;
+   
+}
