@@ -2,6 +2,7 @@
     color: blue;
     font-family: 'Courier New', Courier, monospace;
     background: #000;
+    border: 1px solid #fff;
 } 
 
 .rojo {
@@ -32,5 +33,4 @@
 .contenedor {
     width: 400px;
     margin: 0 auto;
-   
 }
